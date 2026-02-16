@@ -97,7 +97,7 @@ $${\color{slateblue}Determina \space el \space factorial \space de \space un \sp
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
 $${\color{slateblue}20b \space factorial}$$
-$${\color{color}Determina \space el \space factorial \space de \space un \space número \space usando \space una \space funcion.}$$
+$${\color{slateblue}Determina \space el \space factorial \space de \space un \space número \space usando \space una \space funcion.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
 <p align="center">
