@@ -25,85 +25,83 @@ $${\color{slateblue}}$$
 $${\color{slateblue}}$$
 $${\color{slateblue}}$$
 
-$${\color{slateblue}Esta \space unidad.}$$
-
-$${\color{slateblue}01_holamundo.dart}$$
+$${\color{slateblue}01 holamundo}$$
 $${\color{slateblue}Programa básico que muestra "Hello World" en consola.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}02_dataTypes.dart}$$
+$${\color{slateblue}02 dataTypes}$$
 $${\color{slateblue}Ejemplifica los tipos de datos en Dart (int, double, String, bool, listas, sets y mapas).}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}03_finalConst.dart}$$
+$${\color{slateblue}03 finalConst}$$
 $${\color{slateblue}Muestra las diferencias entre final y const.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}04_comments.dart}$$
+$${\color{slateblue}04 comments}$$
 $${\color{slateblue}Ilustra comentarios de una línea, varias líneas y de documentación.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}05_mathOperators.dart}$$
+$${\color{slateblue}05 mathOperators}$$
 $${\color{slateblue}Emplea operadores matemáticos y aritméticos en Dart.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}06_operators.dart}$$
+$${\color{slateblue}06 operators}$$
 $${\color{slateblue}Utiliza operadores de asignación y el condicional ternario (??=, ?:).}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}07_read.dart}$$
+$${\color{slateblue}07 read}$$
 $${\color{slateblue}Captura datos desde consola usando stdin.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}08_helloName.dart}$$
+$${\color{slateblue}08 helloName}$$
 $${\color{slateblue}Solicita un nombre y lo despliega en pantalla.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}09_sum.dart}$$
+$${\color{slateblue}09 sum}$$
 $${\color{slateblue}Suma dos números ingresados por el usuario.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}10_concat.dart}$$
+$${\color{slateblue}10 concat}$$
 $${\color{slateblue}Ejemplifica concatenación de cadenas e interpolación en Dart.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}11_ifBasic.dart}$$
+$${\color{slateblue}11 ifBasic}$$
 $${\color{slateblue}Aplica estructuras condicionales if, else if y else.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}12_Nested.dart}$$
+$${\color{slateblue}12 Nested}$$
 $${\color{slateblue}Implementa estructuras anidadas y comparación de múltiples valores.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}13_menus.dart}$$
+$${\color{slateblue}13 menus}$$
 $${\color{slateblue}Despliega un menú interactivo para cálculo de áreas y volúmenes.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}14_tablaMult.dart}$$
+$${\color{slateblue}14 tablaMult}$$
 $${\color{slateblue}Genera tablas de multiplicar mediante bucles for.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}15_calif.dart}$$
+$${\color{slateblue}15 calif}$$
 $${\color{slateblue}Convierte calificaciones del sistema americano al mexicano.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}16_sumas.dart}$$
+$${\color{slateblue}16 sumas}$$
 $${\color{slateblue}Acumula sumas de números hasta que el usuario ingrese 0.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}17_labels.dart}$$
+$${\color{slateblue}17 labels}$$
 $${\color{slateblue}Demuestra el uso de break y continue en bucles.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}18a_functions.dart}$$
+$${\color{slateblue}18a functions}$$
 $${\color{slateblue}Presenta la definición y uso básico de funciones en Dart.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}18b_functions.dart}$$
+$${\color{slateblue}18b functions}$$
 $${\color{slateblue}Aplica funciones para generar tablas de multiplicar con parámetros.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
-$${\color{slateblue}19_primos.dart}$$
+$${\color{slateblue}19 primos}$$
 $${\color{slateblue}Verifica si un número es primo.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
