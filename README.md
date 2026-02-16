@@ -25,27 +25,89 @@ $${\color{slateblue}}$$
 $${\color{slateblue}}$$
 $${\color{slateblue}}$$
 
-# $${\color{slateblue}Unidad \space 2}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U2)
-$${\color{slateblue}}$$
-$${\color{slateblue}Aquí \space tratamos \space los \space temas \space de \space FOR, \space IF \space Y \space WHILE \space como \space parte \space de \space nuestro \space aprendizaje \space dentro \space de \space la \space carrera \space de \space ITIID,}$$
-$${\color{slateblue}aunque \space sean \space asuntos \space que \space puedan \space parecer \space nimiedades \space es \space importante \space practicar \space su \space alcance \space y \space limitantes.}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
+$${\color{slateblue}Esta \space unidad.}$$
 
-# $${\color{slateblue}Unidad \space 3}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U3)
-$${\color{slateblue}}$$
-$${\color{slateblue}Esta \space unidad \space estuvo \space basada \space en \space el \space adquirir \space conocimientos \space del \space uso \space de \space GitHub \space debido \space a \space su \space increible \space utilidad.}$$
-$${\color{slateblue}Es \space esta \space unidad \space donde \space éste \space repositorio \space vería \space su \space nacimiento.}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
-$${\color{slateblue}}$$
+$${\color{slateblue}01_holamundo.dart}$$
+$${\color{slateblue}Programa básico que muestra "Hello World" en consola.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}02_dataTypes.dart}$$
+$${\color{slateblue}Ejemplifica los tipos de datos en Dart (int, double, String, bool, listas, sets y mapas).}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}03_finalConst.dart}$$
+$${\color{slateblue}Muestra las diferencias entre final y const.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}04_comments.dart}$$
+$${\color{slateblue}Ilustra comentarios de una línea, varias líneas y de documentación.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}05_mathOperators.dart}$$
+$${\color{slateblue}Emplea operadores matemáticos y aritméticos en Dart.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}06_operators.dart}$$
+$${\color{slateblue}Utiliza operadores de asignación y el condicional ternario (??=, ?:).}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}07_read.dart}$$
+$${\color{slateblue}Captura datos desde consola usando stdin.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}08_helloName.dart}$$
+$${\color{slateblue}Solicita un nombre y lo despliega en pantalla.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}09_sum.dart}$$
+$${\color{slateblue}Suma dos números ingresados por el usuario.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}10_concat.dart}$$
+$${\color{slateblue}Ejemplifica concatenación de cadenas e interpolación en Dart.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}11_ifBasic.dart}$$
+$${\color{slateblue}Aplica estructuras condicionales if, else if y else.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}12_Nested.dart}$$
+$${\color{slateblue}Implementa estructuras anidadas y comparación de múltiples valores.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}13_menus.dart}$$
+$${\color{slateblue}Despliega un menú interactivo para cálculo de áreas y volúmenes.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}14_tablaMult.dart}$$
+$${\color{slateblue}Genera tablas de multiplicar mediante bucles for.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}15_calif.dart}$$
+$${\color{slateblue}Convierte calificaciones del sistema americano al mexicano.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}16_sumas.dart}$$
+$${\color{slateblue}Acumula sumas de números hasta que el usuario ingrese 0.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}17_labels.dart}$$
+$${\color{slateblue}Demuestra el uso de break y continue en bucles.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}18a_functions.dart}$$
+$${\color{slateblue}Presenta la definición y uso básico de funciones en Dart.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}18b_functions.dart}$$
+$${\color{slateblue}Aplica funciones para generar tablas de multiplicar con parámetros.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}19_primos.dart}$$
+$${\color{slateblue}Verifica si un número es primo.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
