@@ -92,6 +92,14 @@ $${\color{slateblue}19 \space primos}$$
 $${\color{slateblue}Verifica \space si \space un \space número \space es \space primo.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
+$${\color{slateblue}20a \space factorial}$$
+$${\color{slateblue}Determina \space el \space factorial \space de \space un \space número.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
+$${\color{slateblue}20b \space factorial}$$
+$${\color{color}Determina \space el \space factorial \space de \space un \space número \space usando \space una \space funcion.}$$
+$${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+
 <p align="center">
   <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
 </p>
